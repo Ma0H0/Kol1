@@ -6775,11 +6775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s30718\\Desktop\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\Kolokwium1Poprawa.csproj",
+      "projectUniqueName": "C:\\Users\\s30718\\Desktop\\Kol1\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\Kolokwium1Poprawa.csproj",
       "projectName": "Kolokwium1Poprawa",
-      "projectPath": "C:\\Users\\s30718\\Desktop\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\Kolokwium1Poprawa.csproj",
+      "projectPath": "C:\\Users\\s30718\\Desktop\\Kol1\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\Kolokwium1Poprawa.csproj",
       "packagesPath": "C:\\Users\\s30718\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s30718\\Desktop\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\obj\\",
+      "outputPath": "C:\\Users\\s30718\\Desktop\\Kol1\\Kolokwium1Poprawa\\Kolokwium1Poprawa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s30718\\AppData\\Roaming\\NuGet\\NuGet.Config",

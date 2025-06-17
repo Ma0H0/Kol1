@@ -111,7 +111,7 @@ public class DbService : IDbService
             command.Parameters.AddWithValue("@ArtifactId", artifact.Artifact.ArtifactId);
             command.Parameters.AddWithValue("@Objective",artifact.Project.Objective);
             command.Parameters.AddWithValue("@StartDate", artifact.Project.startDate);
-            command.Parameters.AddWithValue("@EndDate", artifact.Project.endDate);
+            command.Parameters.AddWithValue("@EndDate", DBNull.Value);
             
             await command.ExecuteNonQueryAsync();
             await transaction.CommitAsync();
